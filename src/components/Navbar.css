@@ -1,0 +1,45 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+  padding: 10px 20px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 30px;
+}
+
+.navbar-left {
+  color: #fff;
+  font-weight: bold;
+  font-family: "Snell Roundhand";
+  font-style: italic;
+  font-size: 1.5em;
+}
+.navbar-links {
+  display: flex;
+  align-items: center;
+  font-style: italic;
+}
+.navbar-links a,
+.navbar-link button {
+  color: #fff;
+  margin-right: 20px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.navbar-link button {
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.navbar-link button:focus,
+.navbar-link button:hover {
+  text-decoration: underline;
+}

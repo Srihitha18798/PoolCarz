@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "userName": "admin",
+      "password": "admin"
+    },
+    {
+      "userName": "srihitha",
+      "password": "tadiparthi"
+    },
+    {
+      "userName": "Divya",
+      "password": "tadiparthi"
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "name": "admin",
+      "car": "Innova",
+      "seatsLeft": 3,
+      "pickUp": "Infosys",
+      "destination": "Uppal"
+    },
+    {
+      "id": 2,
+      "name": "srihitha",
+      "car": "Swift",
+      "seatsLeft": 2,
+      "pickUp": "KPHB",
+      "destination": "Uppal"
+    },
+    {
+      "id": 3,
+      "name": "suchi",
+      "car": "Innova",
+      "seatsLeft": 4,
+      "pickUp": "Infosys",
+      "destination": "KPHB"
+    },
+    {
+      "id": 4,
+      "name": "sreenidhi",
+      "car": "Swift",
+      "seatsLeft": 12,
+      "pickUp": "Gachibowli",
+      "destination": "Infosys"
+    },
+    {
+      "id": 5,
+      "name": "harsha",
+      "car": "Innova",
+      "seatsLeft": 5,
+      "pickUp": "Uppal",
+      "destination": "Gachibowli"
+    },
+    {
+      "id": 6,
+      "name": "anu",
+      "car": "Swift",
+      "seatsLeft": 8,
+      "pickUp": "Infosys",
+      "destination": "Gachibowli"
+    },
+    {
+      "id": 7,
+      "name": "srinu",
+      "car": "Innova",
+      "seatsLeft": 6,
+      "pickUp": "Uppal",
+      "destination": "Infosys"
+    },
+    {
+      "id": 8,
+      "name": "divya",
+      "car": "Swift",
+      "seatsLeft": 9,
+      "pickUp": "KPHB",
+      "destination": "Gachibowli"
+    }
+  ],
+  "rides": [
+    {
+      "id": 1,
+      "riderName": "admin",
+      "rideeName": "user1",
+      "pickUp": "Uppal",
+      "destination": "Infosys",
+      "status": "Booked"
+    },
+    {
+      "id": 2,
+      "riderName": "srihitha",
+      "rideeName": "user2",
+      "pickUp": "KPHB",
+      "destination": "Infosys",
+      "status": "Booked"
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "harsha",
+      "pickUp": "Uppal",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 3
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "sreenidhi",
+      "pickUp": "Gachibowli",
+      "destination": "Infosys",
+      "status": "Booked",
+      "id": 4
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "suchi",
+      "pickUp": "Infosys",
+      "destination": "KPHB",
+      "status": "Booked",
+      "id": 5
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "anu",
+      "pickUp": "Infosys",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 6
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "harsha",
+      "pickUp": "Uppal",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 7
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "anu",
+      "pickUp": "Infosys",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 8
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "anu",
+      "pickUp": "Infosys",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 9
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "anu",
+      "pickUp": "Infosys",
+      "destination": "Gachibowli",
+      "status": "Booked",
+      "id": 10
+    },
+    {
+      "riderName": "srihitha",
+      "rideeName": "sreenidhi",
+      "pickUp": "Gachibowli",
+      "destination": "Infosys",
+      "status": "Booked",
+      "id": 11
+    }
+  ]
+}

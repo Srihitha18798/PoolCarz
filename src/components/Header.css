@@ -1,0 +1,11 @@
+.header {
+  background-color: silver;
+  color: white;
+  padding-top: 40px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+  font-size: 1.5em;
+}
